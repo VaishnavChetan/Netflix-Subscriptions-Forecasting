@@ -26,5 +26,5 @@ Plot autocorrelation function (ACF) and partial autocorrelation function (PACF) 
 Fit an ARIMA model with determined parameters.
 Generate predictions for future steps (default: 5 steps) and visualize the results alongside the original data.
 
-**\<h5>Contributing:</h5>**
+**<h5>Contributing:</h5>**
 Contributions are welcome! Feel free to open issues or submit pull requests.
